@@ -1,3 +1,3 @@
 FROM nginx
-LABEL maintainer="sujethapai"
+LABEL maintainer="sujetha"
 COPY . /usr/share/nginx/html
